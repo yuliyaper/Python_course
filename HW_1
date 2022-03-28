@@ -1,5 +1,11 @@
-Создать переменную типа String
-Создать переменную типа Integer
+* Создать переменную типа String
+b = "Yuliya"
+print(type(b), b)
+Run <class 'str'> Yuliya
+* Создать переменную типа Integer
+a = 5
+print(type(a), a)
+Run <class 'int'> 5
 Создать переменную типа Float
 Создать переменную типа Bytes
 Создать переменную типа List
