@@ -3,8 +3,8 @@
 переменные;
 сложение строк;
 вывод на консоль.
-Задание можно посмотреть в файлах:
-[sabaka.net](http://sabaka.net)
+> Выполнение заданий можно посмотрет
+> [HW_1](http://https://github.com/yuliyaper/Python_course/blob/main/HW_1)
 
 
 * Создать переменную типа String
